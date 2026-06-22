@@ -1,0 +1,15 @@
+[submodule "3DGS-WebRenderer-for-GIF"]
+	path = 3DGS-WebRenderer-for-GIF
+	url = https://github.com/NokKhumLee/3DGS-WebRenderer-for-GIF.git
+[submodule "Notebook-Archive"]
+	path = Notebook-Archive
+	url = https://github.com/NokKhumLee/Notebook-Archive.git
+[submodule "LVS-Local-variance-simplification"]
+	path = LVS-Local-variance-simplification
+	url = https://github.com/NokKhumLee/LVS-Local-variance-simplification.git
+[submodule "optimized-gp-pcs"]
+	path = optimized-gp-pcs
+	url = https://github.com/NokKhumLee/optimized-gp-pcs.git
+[submodule "3DGS_Colab_Utils-Mod"]
+	path = 3DGS_Colab_Utils-Mod
+	url = https://github.com/NokKhumLee/3DGS_Colab_Utils-Mod.git
